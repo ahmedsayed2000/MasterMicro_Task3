@@ -13,7 +13,7 @@ position (i, j, k) in the 3d matrix.
 - C++
 ## 📷Screenshots
 ### Initializing 3d matrix
-![](images/initialize 3d array.PNG)
+![](images/initialize%203d%20matrix.PNG)
 ### Testing 
-![](images/test mode.PNG)
+![](images/test%20mode.PNG)
 
