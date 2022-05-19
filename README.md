@@ -14,8 +14,8 @@ position (i, j, k) in the 3d matrix.
 ## 📷Screenshots
 In this execution I used a (2 * 3 * 2) 3d matrix only for the sake of simplicity.
 ### Initializing 3d matrix
-![](initialize 3d array.PNG)
+![](images/initialize 3d array.PNG)
 ### Testing 
 I created a test mode to try as many cases as possible and not to initialize the 3d matrix again every time to test one case.
-![](test mode.PNG)
+![](images/test mode.PNG)
 
